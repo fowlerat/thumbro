@@ -6,7 +6,7 @@
   "license": "proprietary",
   "minimum-stability": "dev",
   "require": {
-    "craftcms/cms": "^4"
+    "craftcms/cms": "^5"
   },
   "autoload": {
     "psr-4": {
